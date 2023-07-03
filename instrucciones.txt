@@ -1,0 +1,11 @@
+1. crear modelo de calculadora con botones.
+2. crear estilo con css.
+3. crear javascript para esta aplicaciones de calculadora.
+
+
+// instrucciones para la calculadora javascript.
+
+1. hacer que llame a cada boton y luego pasarle el valor a el display (la pantalla de la calculadora).
+2. borrar el numero introducido cuando se presione una tecla de operacion (+, -, *, /).
+3. volver a pasar el valor introducido luego de presionar una tecla de operacion.
+4. realizar la operacion y pasarla por el display.
